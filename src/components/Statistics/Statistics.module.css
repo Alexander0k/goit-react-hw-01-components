@@ -1,0 +1,16 @@
+.statistics {
+    width: 200px;
+    font-size: 18px;
+}
+
+.title {
+    text-align: center;
+}
+
+.list {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+    justify-content: space-around;
+
+}
